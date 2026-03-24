@@ -32,7 +32,7 @@
 #### 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/Dev-LDRC/PomodoroApp.git
+git clone https://github.com/DevLDRC/PomodoroApp.git
 cd PomodoroApp
 ```
 
@@ -52,4 +52,4 @@ npm run dev:local
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/Dev-LDRC/PomodoroApp/blob/main/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/DevLDRC/PomodoroApp/blob/main/LICENSE) para mais detalhes.
